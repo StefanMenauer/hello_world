@@ -1,2 +1,2 @@
 # hello_world
-First time on GitHub an start with the tutorial
+First time on GitHub and start with the tutorial
